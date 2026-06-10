@@ -63,168 +63,167 @@
 
 ## 皮肤效果预览
 
-### red_dark
+### red_dark（夏日红-深色）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/red_dark_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/red_dark_horizontal.png" width="40%" />
 </div>
 
-### green_dark
+### green_dark（春夜绿-深色）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/green_dark_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/green_dark_horizontal.png" width="40%" />
 </div>
 
-### orange_dark
+### orange_dark（秋日橙-深色）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/orange_dark_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/orange_dark_horizontal.png" width="40%" />
 </div>
 
-### blue_dark
+### blue_dark（极品蓝-深色）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/blue_dark_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/blue_dark_horizontal.png" width="40%" />
 </div>
 
-### macos_light
+### macos_light（Mac 风格-亮色）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/macos_light_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/macos_light_horizontal.png" width="40%" />
 </div>
 
-### macos_dark
+### macos_dark（Mac 风格-深色）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/macos_dark_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/macos_dark_horizontal.png" width="40%" />
 </div>
 
-### pornhub
+### pornhub（pornhub 网站风格样式）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/pornhub_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/pornhub_horizontal.png" width="40%" />
 </div>
 
-### wechat_light
+### wechat_light（仿微信键盘-亮色）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/wechat_light_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/wechat_light_horizontal.png" width="40%" />
 </div>
 
-### ai_gilding
+### ai_gilding（鎏光金）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/ai_gilding_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/ai_gilding_horizontal.png" width="40%" />
 </div>
 
-### ai_sea_blue
+### ai_sea_blue（深海蓝）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/ai_sea_blue_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/ai_sea_blue_horizontal.png" width="40%" />
 </div>
 
-### ai_terminal
+### ai_terminal（终端）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/ai_terminal_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/ai_terminal_horizontal.png" width="40%" />
 </div>
 
-### morandi_rosewood
+### morandi_rosewood（莫兰迪玫瑰木）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/morandi_rosewood_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/morandi_rosewood_horizontal.png" width="40%" />
 </div>
 
-### roseo_maple
+### roseo_maple（玫瑰枫）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/roseo_maple_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/roseo_maple_horizontal.png" width="40%" />
 </div>
 
-### apathy
+### apathy（冷漠）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/apathy_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/apathy_horizontal.png" width="40%" />
 </div>
 
-### makaron
+### makaron（马卡龙）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/makaron_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/makaron_horizontal_vertical.png" width="40%" />
 </div>
 
-### makaron_dark
+### makaron_dark（马卡龙-深色）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/makaron_dark_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/makaron_dark_horizontal.png" width="40%" />
 </div>
 
-### psionics
+### psionics（幽能）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/psionics_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/psionics_horizontal.png" width="40%" />
 </div>
 
-### aurora_cyan
+### aurora_cyan（极光青）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/aurora_cyan_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/aurora_cyan_horizontal.png" width="40%" />
 </div>
 
-### flypy
+### flypy（小鹤）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/flypy_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/flypy_horizontal.png" width="40%" />
 </div>
 
-### Windows10
+### Windows10（Win10风格）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/Windows10_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/Windows10_horizontal.png" width="40%" />
 </div>
 
-### jipin_wubi
+### jipin_wubi（仿极品五笔）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/jipin_wubi_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/jipin_wubi_horizontal.png" width="40%" />
 </div>
 
-### 98WB
+### 98WB（98五笔风格）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/98WB_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/98WB_horizontal.png" width="40%" />
 </div>
 
-### mritd_dark
+### mritd_dark（漠然-深色）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/mritd_dark_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/mritd_dark_horizontal.png" width="40%" />
 </div>
 
-### jelly
+### jelly（果冻）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/jelly_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/jelly_horizontal.png" width="40%" />
 </div>
 
-### clean_white
+### clean_white（简约白）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/clean_white_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/clean_white_horizontal.png" width="40%" />
 </div>
 
-### mojave_dark
+### mojave_dark（沙漠夜）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/mojave_dark_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/mojave_dark_horizontal.png" width="40%" />
 </div>
 
-### sogou
+### sogou（搜狗）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/sogou_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/sogou_horizontal.png" width="40%" />
 </div>
-
 
 
 **注：**
