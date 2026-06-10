@@ -1,0 +1,768 @@
+# ------------------------------------------------------
+# author：Allen Su
+# date  ：2026/6/10
+# usage ：Mac 鼠须管皮肤配置（部分样式需要相应字体支持）
+# GitHub：https://github.com/jsonsuxing/allensu_squirrel_theme.git
+# ------------------------------------------------------
+
+patch:
+  style:
+    color_scheme: ai_gilding
+    candidate_list_layout: linear
+    text_orientation: horizontal
+    
+  preset_color_schemes:
+
+    red_dark:
+      name: 夏日红-深色
+      author: Allen Su
+      font_face: "PingFangSC"
+      comment_font_face: PingFang SC
+      horizontal: true
+      font_point: 24
+      back_color: 0x030303
+      border_color: 0x0A0A0A
+      corner_radius: 5
+      border_height: 4
+      border_width: 4
+      inline_preedit: true
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_candidate_back_color: 0x4734D6
+      hilited_corner_radius: 5
+      candidate_text_color: 0xFFFFFF
+      label_font_point: 1
+      hilited_candidate_label_color: 0xFFFFFF
+      label_color: 0x999999
+      hilited_text_color: 0xFFFFFF
+      hilited_back_color: 0x030303
+      text_color: 0xFAFAFF
+      candidate_format: "%c\u2005%@"
+      hilited_comment_text_color: 0xFCFCFC
+      comment_text_color: 0x999999
+      line_spacing: 0
+
+    green_dark:
+      name: 春夜绿-深色
+      author: Allen Su
+      font_face: "PingFangSC"
+      comment_font_face: PingFang SC
+      horizontal: false
+      font_point: 24
+      back_color: 0x030303
+      border_color: 0x0A0A0A
+      corner_radius: 5
+      border_height: 4
+      border_width: 4
+      inline_preedit: true
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_candidate_back_color: 0x347440
+      hilited_corner_radius: 5
+      candidate_text_color: 0x999999
+      label_font_point: 1
+      hilited_candidate_label_color: 0xFFFFFF
+      label_color: 0x999999
+      hilited_text_color: 0xFFFFFF
+      hilited_back_color: 0x030303
+      text_color: 0xFAFAFF
+      candidate_format: "%c\u2005%@"
+      hilited_comment_text_color: 0xFCFCFC
+      comment_text_color: 0x999999
+      line_spacing: 0
+
+    orange_dark:
+      name: 秋日橙-深色
+      author: Allen Su
+      font_face: "PingFangSC"
+      comment_font_face: PingFang SC
+      horizontal: false
+      font_point: 24
+      back_color: 0x030303
+      border_color: 0x0A0A0A
+      corner_radius: 5
+      border_height: 4
+      border_width: 4
+      inline_preedit: true
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_candidate_back_color: 0x1D66CD
+      hilited_corner_radius: 5
+      candidate_text_color: 0x999999
+      label_font_point: 1
+      hilited_candidate_label_color: 0xFFFFFF
+      label_color: 0x999999
+      hilited_text_color: 0xFFFFFF
+      hilited_back_color: 0x030303
+      text_color: 0xFAFAFF
+      candidate_format: "%c\u2005%@"
+      hilited_comment_text_color: 0xFCFCFC
+      comment_text_color: 0x999999
+      line_spacing: 0
+
+    blue_dark:
+      name: 极品蓝-深色
+      author: Allen Su
+      font_face: "PingFangSC"
+      comment_font_face: PingFang SC
+      horizontal: false
+      font_point: 24
+      back_color: 0x030303
+      border_color: 0x0A0A0A
+      corner_radius: 5
+      border_height: 4
+      border_width: 4
+      inline_preedit: true
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_candidate_back_color: 0xCD661D
+      hilited_corner_radius: 5
+      candidate_text_color: 0x999999
+      label_font_point: 1
+      hilited_candidate_label_color: 0xFFFFFF
+      label_color: 0x999999
+      hilited_text_color: 0xFFFFFF
+      hilited_back_color: 0x030303
+      text_color: 0xFAFAFF
+      candidate_format: "%c\u2005%@"
+      hilited_comment_text_color: 0xFCFCFC
+      comment_text_color: 0x999999
+      line_spacing: 0
+
+    macos_light:
+      name: Mac 风格-亮色
+      author: Allen Su
+      font_face: "PingFangSC"
+      comment_font_face: PingFang SC
+      font_point: 24
+      back_color: 0xFFFFFF
+      border_color: 0xFFFFFF
+      corner_radius: 5
+      border_height: 4
+      border_width: 4
+      inline_preedit: true
+      horizontal: false
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_candidate_back_color: 0xD75A00
+      hilited_corner_radius: 5
+      candidate_text_color: 0x3C3C3C
+      label_font_point: 22
+      hilited_candidate_label_color: 0xFFFFFF
+      label_color: 0x999999
+      hilited_text_color: 0x999999
+      hilited_back_color: 0x030303
+      text_color: 0x424242
+      candidate_format: "%c\u2005%@"
+      hilited_comment_text_color: 0x999999
+      comment_text_color: 0x999999
+      line_spacing: 0
+
+    macos_dark:
+      name: Mac 风格-深色
+      author: Allen Su
+      font_face: "PingFangSC"
+      comment_font_face: PingFang SC
+      horizontal: false
+      font_point: 24
+      back_color: 0x000000
+      border_color: 0x000000
+      corner_radius: 5
+      border_height: 4
+      border_width: 4
+      inline_preedit: true
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_candidate_back_color: 0xD75A00
+      hilited_corner_radius: 5
+      candidate_text_color: 0xFFFFFF
+      label_font_point: 1
+      hilited_candidate_label_color: 0xFFFFFF
+      label_color: 0x999999
+      hilited_text_color: 0x999999
+      hilited_back_color: 0xD75A00
+      text_color: 0x424242
+      candidate_format: "%c\u2005%@"
+      hilited_comment_text_color: 0x999999
+      comment_text_color: 0x999999
+      line_spacing: 0
+
+    pornhub:
+      name: pornhub 网站风格样式
+      author: Allen Su
+      font_face: "PingFangSC"
+      comment_font_face: PingFang SC
+      horizontal: false
+      font_point: 24
+      back_color: 0x000000
+      border_color: 0x000000
+      corner_radius: 5
+      border_height: 4
+      border_width: 4
+      inline_preedit: true
+      hilited_candidate_text_color: 0x000000
+      hilited_candidate_back_color: 0x009BFF
+      hilited_corner_radius: 5
+      candidate_text_color: 0xFFFFFF
+      label_font_point: 1
+      hilited_candidate_label_color: 0x000000
+      label_color: 0xFFFFFF
+      hilited_text_color: 0x000000
+      hilited_back_color: 0x009BFF
+      text_color: 0xFFFFFF
+      candidate_format: "%c\u2005%@"
+      hilited_comment_text_color: 0x000000
+      comment_text_color: 0x000000
+      line_spacing: 0
+
+    wechat_light:
+      name: 仿微信键盘-亮色
+      author: Allen Su
+      font_face: "PingFangSC"
+      comment_font_face: PingFang SC
+      horizontal: false
+      font_point: 24
+      back_color: 0xFFFFFF
+      border_color: 0x000000
+      corner_radius: 5
+      border_height: 0
+      border_width: 8
+      inline_preedit: true
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_candidate_back_color: 0x75B100
+      hilited_corner_radius: 5
+      candidate_text_color: 0x000000
+      label_font_point: 1
+      hilited_candidate_label_color: 0xFFFFFF
+      label_color: 0x000000
+      hilited_text_color: 0x000000
+      hilited_back_color: 0x009BFF
+      text_color: 0x424242
+      candidate_format: '%c %@ '
+      hilited_comment_text_color: 0x000000
+      comment_text_color: 0x999999
+      line_spacing: 0
+
+    ai_gilding:
+      name: "鎏光金"
+      author: "AllenSu"
+      color_space: srgb
+      alpha: 1.0
+      horizontal: true
+      inline_preedit: true
+      candidate_format: "%c\u2005%@\u2005"
+      corner_radius: 6
+      hilited_corner_radius: 5
+      border_height: 6
+      border_width: 8
+      line_spacing: 5
+      base_offset: 0
+      font_face: "PingFang SC"
+      font_point: 24
+      label_font_face: "PingFang SC"
+      label_font_point: 14
+      candidate_font_face: "PingFang SC"
+      candidate_font_point: 16
+      comment_font_face: "PingFang SC"
+      comment_font_point: 16
+      back_color: 0x24201A
+      border_color: 0x40372D
+      text_color: 0xEDE7DC
+      candidate_text_color: 0xEDE7DC
+      label_color: 0xB8AFA6
+      comment_text_color: 0xB9B27E
+      hilited_candidate_text_color: 0x211A14
+      hilited_candidate_back_color: 0xA6D3E6
+      hilited_candidate_label_color: 0x28427A
+      hilited_comment_text_color: 0x1A4E6A
+      hilited_text_color: 0xEDE7DC
+      hilited_back_color: 0x332C24
+      preedit_back_color: 0x332C24
+
+    ai_sea_blue:
+      name: "深海蓝"
+      author: Allen Su
+      color_space: srgb
+      alpha: 1.0
+      horizontal: true
+      inline_preedit: true
+      candidate_format: "%c\u2005%@\u2005"
+      corner_radius: 6
+      hilited_corner_radius: 5
+      border_height: 6
+      border_width: 8
+      line_spacing: 5
+      base_offset: 0
+      font_face: "PingFang SC"
+      font_point: 24
+      label_font_face: "PingFang SC"
+      label_font_point: 14
+      candidate_font_face: "PingFang SC"
+      candidate_font_point: 16
+      comment_font_face: "PingFang SC"
+      comment_font_point: 16
+      back_color: 0xF6F2EC
+      border_color: 0xDDD3C6
+      text_color: 0x302821
+      candidate_text_color: 0x302821
+      label_color: 0x776A5F
+      comment_text_color: 0x88754F
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_candidate_back_color: 0xA86231
+      hilited_candidate_label_color: 0xF2D9A8
+      hilited_comment_text_color: 0xEBDAC6
+      hilited_text_color: 0x302821
+      hilited_back_color: 0xE9E1D6
+      preedit_back_color: 0xE9E1D6
+
+    ai_terminal:
+      name: "终端"
+      author: Allen Su
+      color_space: srgb
+      alpha: 0.96
+      horizontal: true
+      inline_preedit: true
+      candidate_format: "%c\u2005%@\u2005"
+      corner_radius: 4
+      hilited_corner_radius: 3
+      border_height: 0
+      border_width: 0
+      line_spacing: 5
+      spacing: 6
+      candidate_spacing: 12
+      hilite_spacing: 2
+      hilite_padding: 3
+      base_offset: 0
+      shadow_size: 5
+      shadow_offset_x: 0
+      shadow_offset_y: 3
+      shadow_color: 0x33000000
+      font_face: "JetBrains Mono"
+      font_point: 24
+      label_font_face: "JetBrains Mono"
+      label_font_point: 14
+      candidate_font_face: "JetBrains Mono"
+      candidate_font_point: 16
+      comment_font_face: "JetBrains Mono"
+      comment_font_point: 16
+      back_color: 0x15110D
+      border_color: 0x15110D
+      text_color: 0xA8FF7A
+      candidate_text_color: 0xB7F8C8
+      label_color: 0x58C8FF
+      comment_text_color: 0xD8B56A
+      hilited_candidate_text_color: 0x0D1115
+      hilited_candidate_back_color: 0x72FF44
+      hilited_candidate_label_color: 0x0D1115
+      hilited_comment_text_color: 0x244014
+      hilited_text_color: 0xA8FF7A
+      hilited_back_color: 0x221C14
+      preedit_back_color: 0x221C14
+
+    morandi_rosewood:
+      name: "莫兰迪玫瑰木"
+      author: Allen Su
+      color_space: srgb
+      alpha: 1
+      horizontal: true
+      inline_preedit: true
+      candidate_format: "%c\u2005%@\u2005"
+      corner_radius: 7
+      hilited_corner_radius: 5
+      border_height: 0
+      border_width: 0
+      line_spacing: 5
+      spacing: 6
+      candidate_spacing: 12
+      hilite_spacing: 2
+      hilite_padding: 4
+      base_offset: 0
+      shadow_size: 4
+      shadow_offset_x: 0
+      shadow_offset_y: 2
+      shadow_color: 0x22000000
+      font_face: "PingFang SC"
+      font_point: 24
+      label_font_face: "PingFang SC"
+      label_font_point: 14
+      candidate_font_face: "PingFang SC"
+      candidate_font_point: 16
+      comment_font_face: "PingFang SC"
+      comment_font_point: 16
+      back_color: 0xD0D2D3
+      border_color: 0xA6A9AE
+      text_color: 0x35303D
+      candidate_text_color: 0x35303D
+      label_color: 0x89A6BC
+      comment_text_color: 0x918B7D
+      hilited_candidate_text_color: 0xEAEEF3
+      hilited_candidate_back_color: 0x5A54AB
+      hilited_candidate_label_color: 0xD9D6E6
+      hilited_comment_text_color: 0xC0D3E8
+      hilited_text_color: 0x35303D
+      hilited_back_color: 0xD9D6E6
+      preedit_back_color: 0xD9D6E6
+
+    roseo_maple:
+      name: 玫瑰枫
+      author: Allen Su
+      alpha: 1.0
+      border_height: 0
+      border_width: 0
+      border_color: 0xffffff
+      back_color: 0xF4F4F6
+      corner_radius: 5
+      font_point: 24
+      line_spacing: 5
+      base_offset: 0
+      horizontal: true
+      preedit_back_color: 0x364572
+      hilited_corner_radius: 5
+      hilited_candidate_text_color: 0x4F11FA
+      hilited_candidate_back_color: 0xEDEDF9
+      hilited_candidate_label_color: 0x884F11FA
+      label_font_face: PingFang SC
+      label_font_point: 14
+      label_color: 0xaaaaaa
+      candidate_text_color: 0x222222
+      candidate_font_face: PingFang SC
+      candidate_font_point: 16
+      comment_font_face: PingFang SC
+      comment_font_point: 16
+      comment_text_color: 0x5AC461
+      inline_preedit: true
+      spacing: 5
+      hilited_text_color: 0x8E8E93
+      hilited_back_color: 0xEFEFF4
+
+    apathy:
+      name: 冷漠
+      author: Allen Su
+      back_color: 0xFFFFFF
+      border_height: 0
+      border_width: 8
+      line_spacing: 10
+      candidate_format: "%c %@ "
+      comment_text_color: 0x999999
+      corner_radius: 5
+      font_point: 24
+      hilited_candidate_back_color: 0xFFF0E4
+      hilited_candidate_text_color: 0xEE6E00
+      inline_preedit: true
+      label_font_point: 1
+      text_color: 0x424242
+
+    makaron:
+      name: 马卡龙
+      author: Allen Su
+      inline_preedit: true
+      candidate_format: "%c\u2005%@"
+      corner_radius: 5
+      hilited_corner_radius: 5
+      border_height: 6
+      border_width: 6
+      border_color_width: 0
+      font_point: 24
+      label_font_point: 1
+      text_color: 0xc3cb42
+      back_color: 0xF5F5F5
+      label_color: 0xE1E1E1
+      border_color: 0xF5F5F5
+      candidate_text_color: 0xb294fa
+      hilited_text_color: 0xc3cb42
+      hilited_back_color: 0xffffff
+      hilited_candidate_text_color: 0xffffff
+      hilited_candidate_back_color: 0xc3cb42
+      hilited_candidate_label_color: 0xffffff
+      comment_text_color: 0xddddde
+
+    makaron_dark:
+      name: 马卡龙-深色
+      author: Allen Su
+      inline_preedit: true
+      candidate_format: "%c\u2005%@"
+      corner_radius: 5
+      hilited_corner_radius: 5
+      border_height: 6
+      border_width: 6
+      border_color_width: 0
+      font_point: 24
+      label_font_point: 1
+      text_color: 0xBBC60C
+      back_color: 0x474747
+      label_color: 0x777777
+      border_color: 0x474747
+      candidate_text_color: 0xB4AAFF
+      hilited_text_color: 0xBBC60C
+      hilited_back_color: 0xffffff
+      hilited_candidate_text_color: 0xffffff
+      hilited_candidate_back_color: 0xBBC60C
+      hilited_candidate_label_color: 0xffffff
+      comment_text_color: 0xddddde
+
+    psionics:
+      name: 幽能
+      author: Allen Su
+      font_face: "PingFangSC"
+      comment_font_face: PingFang SC
+      candidate_format: "%c %@ "
+      corner_radius: 5
+      font_point: 24
+      label_font_point: 1 
+      line_spacing: 0
+      font_face: "PingFangSC-Regular,HanaMinB"
+      text_color: 0xc2c2c2
+      back_color: 0x444444
+      candidate_text_color: 0xeeeeee
+      hilited_candidate_back_color: 0xd4bc00
+      comment_text_color: 0x808080
+      hilited_text_color: 0xeeeeee
+      hilited_back_color: 0x444444
+      hilited_candidate_label_color: 0xfafafa
+      hilited_candidate_text_color: 0xfafafa
+      hilited_comment_text_color: 0x444444
+
+    aurora_cyan:
+      name: "极光青"
+      author: Allen Su
+      back_color: 0x444444
+      border_height: 0
+      border_width: 0
+      candidate_format: "%c %@ "
+      comment_text_color: 0x999999
+      corner_radius: 5
+      font_face: "PingFangSC-Medium,PingFangTC-Medium"
+      font_point: 24
+      hilited_candidate_back_color: 0xD3BC00
+      hilited_candidate_text_color: 0xFFFFFF
+      horizontal: true
+      inline_preedit: true
+      label_font_point: 1
+      text_color: 0xEEEEEE
+    
+    flypy:
+      name: 小鹤
+      author: Allen Su
+      back_color: 0xffffff
+      border_color_width: 1
+      border_height: 8
+      border_width: 8
+      candidate_format: "%c\u2005%@\u2005"
+      corner_radius: 6
+      hilited_text_color: 0x000000
+      hilited_back_color: 0xffffff
+      hilited_candidate_label_color: 0xeeeeee
+      hilited_candidate_text_color: 0xffffff
+      hilited_candidate_back_color: 0xe89f00
+      hilited_comment_text_color: 0xcccccc
+      label_color: 0x555555
+      candidate_text_color: 0x000000
+      candidate_back_color: 0xffffff
+      comment_text_color: 0x555555
+      horizontal: true
+      font_point: 24
+      label_font_point: 1
+      inline_preedit: true
+      text_color: 0x333333
+
+    Windows10:
+      name: "Win10"
+      author: Allen Su
+      font_face: "Helvetica"
+      font_point: 24
+      label_font_point: 1 
+      inline_preedit: true
+      translucency: false
+      spacing: 15
+      base_offset: 0
+      corner_radius: 1
+      border_color_width: 1
+      border_height: 8
+      border_width: 3
+      candidate_format: "%c\u2005%@\u2005"
+      corner_radius: 3
+      color_space: srgb
+      back_color: 0xFFFFFF
+      border_color: 0xF47368
+      candidate_text_color: 0x000000
+      comment_text_color: 0x888888
+      label_color: 0x888888
+      hilited_candidate_back_color: 0xD26B40
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_comment_text_color: 0xFFFFFF
+      hilited_candidate_label_color: 0xEEDAB8
+      text_color: 0x000000
+      hilited_back_color: 0x000000
+      hilited_text_color: 0x000000
+
+    jipin_wubi:
+      name: 仿极品五笔
+      author: Allen Su
+      font_face: "PingFangSC"
+      comment_font_face: PingFang SC
+      horizontal: false
+      font_point: 24
+      back_color: 0xE7E7E5
+      border_color: 0xA0A0A0
+      corner_radius: 0
+      border_height: 4
+      border_width: 4
+      inline_preedit: false
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_candidate_back_color: 0xF2170B
+      hilited_corner_radius: 0
+      candidate_text_color: 0x000000
+      label_font_point: 1
+      hilited_candidate_label_color: 0xFFFFFF
+      label_color: 0x000000
+      hilited_text_color: 0x000000
+      hilited_back_color: 0xE7E7E5
+      text_color: 0x000000
+      candidate_format: "%c\u2005%@"
+      hilited_comment_text_color: 0xFFFFFF
+      comment_text_color: 0x999999
+      line_spacing: 0
+
+    98WB:
+      name: "98五笔"
+      author: Allen Su
+      inline_preedit: true
+      candidate_format: "%c\u2005\u2005%@"
+      corner_radius: 0
+      hilited_corner_radius: 3
+      border_height: 8
+      border_width: 8
+      border_color_width: 0
+      font_point: 24
+      label_font_point: 1
+      text_color: 0x92f6da
+      back_color: 0x222222
+      candidate_text_color: 0xd8e3e6
+      hilited_text_color: 0xffcf9a
+      hilited_back_color: 0x222222
+      hilited_candidate_text_color: 0x92f6da
+      hilited_candidate_back_color: 0x10000000
+      comment_text_color: 0x606cff
+
+    mritd_dark:
+      name: 漠然-深色
+      author: Allen Su
+      inline_preedit: true
+      candidate_format: "%c\u2005%@"
+      corner_radius: 5
+      hilited_corner_radius: 3
+      border_height: 6
+      border_width: 6
+      border_color_width: 0
+      font_face: "PingFangSC"
+      font_point: 24
+      label_font_point: 1
+      text_color: 0xdedddd
+      back_color: 0x4b4b4b
+      label_color: 0x888785
+      border_color: 0x4b4b4b
+      candidate_text_color: 0xffffff
+      hilited_text_color: 0xdedddd
+      hilited_back_color: 0x252320
+      hilited_candidate_text_color: 0xFFE696
+      hilited_candidate_back_color: 0x4b4b4b
+      hilited_candidate_label_color: 0xffffff
+      comment_text_color: 0xdedddd
+      hilited_comment_text_color: 0xdedddd
+  
+    jelly:
+      name: 果冻
+      author: Allen Su
+      inline_preedit: true
+      candidate_format: "%c\u2005%@"
+      corner_radius: 12
+      hilited_corner_radius: 28
+      border_height: 0
+      border_width: 0
+      border_color_width: 0
+      font_face: "XingKai SC"
+      font_point: 24
+      label_font_point: 1
+      text_color: 0xF05369
+      back_color: 0xFFFFFF
+      label_color: 0xCCCCCC
+      border_color: 0xffffff
+      candidate_text_color: 0xF05369
+      hilited_text_color: 0x000000
+      hilited_back_color: 0xffffff
+      hilited_candidate_text_color: 0x000000
+      hilited_candidate_back_color: 0xf2f2f2
+      hilited_candidate_label_color: 0x000000
+      comment_text_color: 0xF05369
+
+    clean_white:
+      name: "简约白"
+      author: Allen Su
+      back_color: 0xeeeeee
+      border_height: 6
+      border_width: 6
+      candidate_format: "%c %@"
+      candidate_text_color: 0x000000
+      comment_text_color: 0x808080
+      corner_radius: 6
+      font_point: 24
+      hilited_candidate_back_color: 0xeeeeee
+      hilited_candidate_label_color: 0xa0c98915
+      hilited_candidate_text_color: 0xc98915
+      hilited_text_color: 0x000000
+      horizontal: true
+      label_color: 0x888888
+      label_font_point: 1
+      text_color: 0x808080
+
+    mojave_dark:
+      name: "沙漠夜"
+      author: Allen Su
+      inline_preedit: true
+      candidate_format: "%c %@"
+      corner_radius: 5
+      hilited_corner_radius: 0
+      border_height: 6
+      border_width: 12
+      border_color_width: 0
+      font_face: PingFangSC
+      font_point: 24
+      label_font_point: 1
+      text_color: 0xdedddd
+      back_color: 0x3c3c3c
+      label_color: 0x888785
+      border_color: 0x3c3c3c
+      candidate_text_color: 0xdedddd
+      hilited_text_color: 0xdedddd
+      hilited_back_color: 0x3c3c3c
+      hilited_candidate_text_color: 0xefefef
+      hilited_candidate_label_color: 0xefefef
+      comment_text_color: 0xdedddd
+
+    sogou:
+      name: "搜狗"
+      author: Allen Su
+      comment_font_face: HiraginoSansCNS-W3
+      font_face: HiraginoSansCNS-W3
+      label_font_face: HiraginoSansCNS-W3
+      candidate_format: "%c %@ "
+      inline_preedit: false
+      spacing: 5
+      alpha: 1.0
+      border_height: 3
+      border_width: 8
+      line_spacing: 5
+      base_offset: 0
+      hilited_corner_radius: 5
+      font_point: 24
+      label_font_point: 1
+      corner_radius: 2
+      comment_font_point: 16 
+      color_space: srgb
+      hilited_text_color: 0xFF3304
+      hilited_back_color: 0xEFEFF4
+      hilited_candidate_text_color: 0x1E37FF
+      hilited_candidate_back_color: 0xFFFFFF
+      hilited_candidate_label_color: 0x0026FF
+      hilited_comment_text_color: 0x999999
+      candidate_text_color: 0xF26D3E
+      comment_text_color: 0x999999
+      border_color: 0xE0B693
+      back_color: 0xFFFFFF
+      label_color: 0xFF3304
+      preedit_back_color: 0xFFFFFF
+      text_color: 0xFF3304
