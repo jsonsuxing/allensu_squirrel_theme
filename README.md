@@ -33,32 +33,36 @@
 | 序号 | 方案 ID | 方案名称 | 作者 | 风格 |
 | --- | --- | --- | --- | --- |
 | 01 | `red_dark` | 夏日红-深色 | AllenSu | 深色，红色高亮 |
-| 02 | `green_dark` | 春夜绿-深色 | AllenSu | 深色，绿色高亮 |
-| 03 | `orange_dark` | 秋日橙-深色 | AllenSu | 深色，橙色高亮 |
-| 04 | `blue_dark` | 极品蓝-深色 | AllenSu | 深色，蓝色高亮 |
-| 05 | `macos_light` | Mac 风格-亮色 | AllenSu | macOS，亮色 |
-| 06 | `macos_dark` | Mac 风格-深色 | AllenSu | macOS，深色 |
-| 07 | `pornhub` | pornhub 网站风格样式 | AllenSu | 黑橙撞色 |
-| 08 | `wechat_light` | 仿微信键盘-亮色 | AllenSu | 微信键盘，亮色 |
-| 09 | `ai_gilding` | 鎏光金 | AllenSu | 鎏光金，当前默认 |
-| 10 | `ai_gilding_light` | 深海蓝 | AllenSu | 深海蓝 |
-| 11 | `ai_terminal` | 终端 | AllenSu | 终端风格 |
-| 12 | `morandi_rosewood` | 莫兰迪玫瑰木 | AllenSu | 莫兰迪，玫瑰木色 |
-| 13 | `roseo_maple` | 玫瑰枫 | AllenSu | 亮色，玫枫配色 |
-| 14 | `apathy` | 冷漠 | AllenSu | 极简亮色 |
-| 15 | `makaron` | 马卡龙 | AllenSu | 马卡龙配色，亮色 |
-| 16 | `makaron_dark` | 马卡龙-深色 | AllenSu | 马卡龙配色，深色 |
-| 17 | `psionics` | 幽能 | AllenSu | 深灰、蓝黄高亮 |
-| 18 | `aurora_cyan` | 极光青 | AllenSu | 极光青深色 |
-| 19 | `flypy` | 小鹤 | AllenSu | 小鹤风格 |
-| 20 | `Windows10` | Win10 | AllenSu | Windows 10 风格 |
-| 21 | `jipin_wubi` | 仿极品五笔 | AllenSu | 经典五笔 |
-| 22 | `98WB` | 98五笔 | AllenSu | 98 五笔风格 |
-| 23 | `mritd_dark` | 漠然-深色 | AllenSu | 深灰，低对比 |
-| 24 | `jelly` | 果冻 | AllenSu | 亮色，柔和 |
-| 25 | `clean_white` | 简约白 | AllenSu | 简约白 |
-| 26 | `mojave_dark` | 沙漠夜 | AllenSu | 深色 |
-| 27 | `sogou` | 搜狗 | AllenSu | 搜狗风格 |
+| 02 | `red_light` | 夏日红-亮色 | AllenSu | 亮色，红色高亮 |
+| 03 | `green_dark` | 春夜绿-深色 | AllenSu | 深色，绿色高亮 |
+| 04 | `green_light` | 春夜绿-亮色 | AllenSu | 亮色，绿色高亮 |
+| 05 | `orange_dark` | 秋日橙-深色 | AllenSu | 深色，橙色高亮 |
+| 06 | `orange_light` | 秋日橙-亮色 | AllenSu | 亮色，橙色高亮 |
+| 07 | `blue_dark` | 极品蓝-深色 | AllenSu | 深色，蓝色高亮 |
+| 08 | `blue_light` | 极品蓝-亮色 | AllenSu | 亮色，蓝色高亮 |
+| 09 | `macos_light` | Mac 风格-亮色 | AllenSu | macOS，亮色 |
+| 10 | `macos_dark` | Mac 风格-深色 | AllenSu | macOS，深色 |
+| 11 | `pornhub` | pornhub 网站风格样式 | AllenSu | 黑橙撞色 |
+| 12 | `wechat_light` | 仿微信键盘-亮色 | AllenSu | 微信键盘，亮色 |
+| 13 | `ai_gilding` | 鎏光金 | AllenSu | 鎏光金，当前默认 |
+| 14 | `ai_gilding_light` | 深海蓝 | AllenSu | 深海蓝 |
+| 15 | `ai_terminal` | 终端 | AllenSu | 终端风格 |
+| 16 | `morandi_rosewood` | 莫兰迪玫瑰木 | AllenSu | 莫兰迪，玫瑰木色 |
+| 17 | `roseo_maple` | 玫瑰枫 | AllenSu | 亮色，玫枫配色 |
+| 18 | `apathy` | 冷漠 | AllenSu | 极简亮色 |
+| 19 | `makaron` | 马卡龙 | AllenSu | 马卡龙配色，亮色 |
+| 20 | `makaron_dark` | 马卡龙-深色 | AllenSu | 马卡龙配色，深色 |
+| 21 | `psionics` | 幽能 | AllenSu | 深灰、蓝黄高亮 |
+| 22 | `aurora_cyan` | 极光青 | AllenSu | 极光青深色 |
+| 23 | `flypy` | 小鹤 | AllenSu | 小鹤风格 |
+| 24 | `Windows10` | Win10 | AllenSu | Windows 10 风格 |
+| 25 | `jipin_wubi` | 仿极品五笔 | AllenSu | 经典五笔 |
+| 26 | `98WB` | 98五笔 | AllenSu | 98 五笔风格 |
+| 27 | `mritd_dark` | 漠然-深色 | AllenSu | 深灰，低对比 |
+| 28 | `jelly` | 果冻 | AllenSu | 亮色，柔和 |
+| 29 | `clean_white` | 简约白 | AllenSu | 简约白 |
+| 30 | `mojave_dark` | 沙漠夜 | AllenSu | 深色 |
+| 31 | `sogou` | 搜狗 | AllenSu | 搜狗风格 |
 
 
 ## 皮肤效果预览
@@ -69,10 +73,22 @@
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/red_dark_horizontal.png" width="40%" />
 </div>
 
+### red_light（夏日红-亮色）
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/red_light_vertical.png" width="10%" />
+  <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/red_light_horizontal.png" width="40%" />
+</div>
+
 ### green_dark（春夜绿-深色）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/green_dark_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/green_dark_horizontal.png" width="40%" />
+</div>
+
+### green_light（春夜绿-亮色）
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/green_light_vertical.png" width="10%" />
+  <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/green_light_horizontal.png" width="40%" />
 </div>
 
 ### orange_dark（秋日橙-深色）
@@ -81,10 +97,22 @@
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/orange_dark_horizontal.png" width="40%" />
 </div>
 
+### orange_light（秋日橙-亮色）
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/orange_light_vertical.png" width="10%" />
+  <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/orange_light_horizontal.png" width="40%" />
+</div>
+
 ### blue_dark（极品蓝-深色）
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/blue_dark_vertical.png" width="10%" />
   <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/blue_dark_horizontal.png" width="40%" />
+</div>
+
+### blue_light（极品蓝-亮色）
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/blue_light_vertical.png" width="10%" />
+  <img src="https://github.com/jsonsuxing/allensu_squirrel_theme/blob/main/images/blue_light_horizontal.png" width="40%" />
 </div>
 
 ### macos_light（Mac 风格-亮色）
