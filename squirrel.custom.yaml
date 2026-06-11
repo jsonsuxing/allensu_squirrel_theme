@@ -7,7 +7,7 @@
 
 patch:
   style:
-    color_scheme: ai_gilding
+    color_scheme: red_dark
     candidate_list_layout: linear
     text_orientation: horizontal
     

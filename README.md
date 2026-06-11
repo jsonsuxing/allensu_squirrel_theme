@@ -3,9 +3,9 @@
 这是 AllenSu 整理维护的 macOS 鼠须管（Squirrel）皮肤配置，皮肤方案集中放在 `squirrel.custom.yaml`，可直接复制到自己的 Rime 用户配置目录使用，但部分样式需要相应字体支持。
 整理不易，如果你也喜欢这个项目，那就给一个免费的 Star 吧！
 
-当前默认启用主题：`ai_gilding`（鎏光金）
+当前默认启用主题：`red_dark`（夏日红-深色）
 
-上次更新时间：2026年06月10日
+上次更新时间：2026年06月11日
 
 ## 快速使用
 
@@ -20,7 +20,7 @@
    ```yaml
    patch:
      style:
-       color_scheme: ai_gilding
+       color_scheme: red_dark
    ```
 
 3. 重新部署鼠须管：
@@ -239,7 +239,7 @@
 ```yaml
 patch:
   style:
-    color_scheme: ai_sea_blue
+    color_scheme: green_dark
 ```
 
 常用排版参数可以放在 `patch/style` 中统一控制：
@@ -247,7 +247,7 @@ patch:
 ```yaml
 patch:
   style:
-    color_scheme: ai_gilding
+    color_scheme: red_dark
     candidate_list_layout: linear
     text_orientation: horizontal
 ```
